@@ -41,7 +41,7 @@
 
 .content .container h3 {
   text-align: center;
-  margin: 0 5px;
+  margin: 0;
   font-size: 20px;
   font-family: "Outfit", sans-serif;
   font-weight: 700;
@@ -55,7 +55,7 @@
   font-family: "Outfit", sans-serif;
   font-weight: 400;
   color: var(--GrayishBlue);
-  margin: 0 15px;
+  margin: 0 10px;
   margin-bottom: 18px
 }
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
