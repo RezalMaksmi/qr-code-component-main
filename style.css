@@ -25,7 +25,8 @@
   border-radius: 22px;
   align-items: center;
   width: 290px;
-  max-height: 450px;
+  min-height: 450px;
+  height: auto;
   background-color: var(--White);
   padding: 15px;
 }
